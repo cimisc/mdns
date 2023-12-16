@@ -1,0 +1,3 @@
+[submodule "mdns-reflector"]
+	path = mdns-reflector
+	url = https://github.com/vfreex/mdns-reflector.git
